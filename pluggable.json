@@ -1,0 +1,9 @@
+{"socket": {
+    "installs": [
+	 "-e git+ssh://git@git.synca.io:2222/git-server/repos/pluggable.twitter#egg=pluggable.twitter",	
+	 "-e git+ssh://git@git.synca.io:2222/git-server/repos/pluggable.socket#egg=pluggable.socket",
+	 "-e git+ssh://git@git.synca.io:2222/git-server/repos/pluggable.core#egg=pluggable.core",	 
+         "-e git+ssh://git@git.synca.io:2222/git-server/repos/aioworker#egg=aioworker"
+     ]
+ }
+}

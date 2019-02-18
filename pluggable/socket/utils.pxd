@@ -1,0 +1,3 @@
+
+
+cpdef str truncate(str)
